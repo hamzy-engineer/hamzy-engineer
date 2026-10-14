@@ -163,6 +163,19 @@ Cross-cloud analytics environment processing **150M+ daily SaaS events**, integr
 
 ---
 
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=false&include_all_commits=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default&hide_border=false" />
+</p>
+
+<p align="center">
+  <img width="85%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=default" />
+</p>
+
+
 ## 📫 Let's Connect
 
 I'm interested in building secure, scalable data platforms and exploring opportunities in cloud data engineering, streaming analytics, lakehouse architecture, and AI-ready infrastructure.
