@@ -164,16 +164,22 @@ Cross-cloud analytics environment processing **150M+ daily SaaS events**, integr
 ---
 
 
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=false&include_all_commits=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default&hide_border=false" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hamzy-engineer&show_icons=true&theme=default&hide_border=false" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzy-engineer&layout=compact&theme=default&hide_border=false" />
 </p>
 
 <p align="center">
-  <img width="85%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=default" />
+  <img width="85%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hamzy-engineer&theme=default" />
 </p>
+
+## 🌐 Personal Website
+
+[Visit My Portfolio](https://hamzy-engineer.github.io/my-personal-blog/)
+
 
 
 ## 📫 Let's Connect
